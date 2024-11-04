@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utaqaolu.github.io/JfG/sitemap_index.txt
+Sitemap: https://utaqaolu.github.io/edg/sitemap_index.txt
+Sitemap: https://utaqaolu.github.io/pGt/sitemap_index.txt
+Sitemap: https://utaqaolu.github.io/uEB/sitemap_index.txt
